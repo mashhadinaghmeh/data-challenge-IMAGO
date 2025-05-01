@@ -31,11 +31,11 @@ For this project, I have made some assumptions and based on that I have gone for
   Region: Geographical region of the customer.
 4. Invoice or position dates: Records less than the company’s founding year (1990) or greater than today are invalid
 
-5. Customer Journey: I have had a customer journey on purchasing a product to get to know abit about the business and make some assumptions that are at least close to the real story. I have created a user on IMAGO website and proceeded till submitting an order. Based on this Journey, I have assumed: 
+5. Customer Journey: I have had a customer journey on purchasing a product to get to know abit about the business and make some assumptions that are at least close to the real story. I have created a user on IMAGO website and proceeded till submitting an order. Based on    this Journey, I have assumed: 
 
-  The orders placed are prepaid, meaning that you cannot start using a license unless you pay on the payment portal and have a successful payment. 
-  
-  I assume zahlungsdatum which is the payment date must be greater or at least equal to the redatum which is the issue date of invoice.
+      The orders placed are prepaid, meaning that you cannot start using a license unless you pay on the payment portal and have a successful payment. 
+      
+      I assume zahlungsdatum which is the payment date must be greater or at least equal to the redatum which is the issue date of invoice.
 
 6. Collaboration with other colleagues: If I could have more knowledge and data on order funnel and business flow, all the nonconformities and data model refactor could have more precise structure.
 
