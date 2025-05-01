@@ -47,6 +47,6 @@ Plz finde attached the following parts included in the repository:
     
     data-modeling file which has ideas on warehouse design restructuring
     
-    modern-technologies file which covers the dbt, Airflow, Dagster and migration section
+    modern-technologies file which covers the dbt, Airflow, Dagster, Snowflake and migration section
     
     data-investigation file which had a huge help on me understanding the business, non conformities and assumptions.
