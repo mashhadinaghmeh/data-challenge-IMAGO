@@ -39,16 +39,14 @@ For this project, I have made some assumptions and based on that I have gone for
 
 6. Collaboration with other colleagues: If I could have more knowledge and data on order funnel and business flow, all the nonconformities and data model refactor could have more precise structure.
 
-Plz finde attached the following parts included in the repository:
-
-data-investigation file which had a huge help on me understanding the business, non conformities and assumptions.
-
-data-analysis file which covers the first section of the challenge.
-
-data -pipeline file which covers the nonconformities finding and data pipeline section.
-
-data-modeling file which has ideas on warehouse design restructuring
-
-modern-technologies file which covers the dbt, Airflow, Dagster and migration section
-
-data-investigation.sql
+Plz finde attached the following parts included in the repository:    
+    
+    data-analysis file which covers the first section of the challenge.
+    
+    data -pipeline file which covers the nonconformities finding and data pipeline section.
+    
+    data-modeling file which has ideas on warehouse design restructuring
+    
+    modern-technologies file which covers the dbt, Airflow, Dagster and migration section
+    
+    data-investigation file which had a huge help on me understanding the business, non conformities and assumptions.
